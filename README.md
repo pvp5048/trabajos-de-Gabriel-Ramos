@@ -1,2 +1,2 @@
-# trabajos-de-Gabriel-Ramos
+#menus es verdero y mehorado de-Gabriel-Ramos
 pensamiento computacional
